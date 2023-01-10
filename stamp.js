@@ -1,4 +1,4 @@
-let stamp = ''
+let stamp = 'https://github.com/dansmindspace/P5js-Scripts/blob/4c5c0c713c058773e83bf6a8155602fb8eb24255/V1.svg'
 
 function loadStamp() {
   return loadImage(stamp)
